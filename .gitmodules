@@ -37,3 +37,6 @@
 [submodule "src/FMS2"]
 	path = src/FMS2
 	url = https://github.com/NOAA-GFDL/FMS
+[submodule "dev/gfdl"]
+	path = src/MOM6
+	url = https://github.com/willaguiar/MOM6.git
